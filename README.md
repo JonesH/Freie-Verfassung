@@ -1,3 +1,10 @@
+#  [Freie-Verfassung](https://github.com/JonesH/Freie-Verfassung)
+
+Dieser Fork von [grundgesetz-dev](https://github.com/bheisig/grundgesetz-dev) soll nicht die Geschichte, sondern die Zukunft unserer Verfassung bestimmen. Die Idee ist, zunaechst das bestehende Grundgesetz als Basis zu nehmen, dann aber jedem die Moeglichkeit bieten, Artikel zu streichen, zu aendern oder hinzuzufuegen und so verschiedenste Versionen zu schaffen die untereinander konkurrurieren. Sobald ein gewisser Konsens ueber diese neue Verfassung erreicht ist und genug Populaeritaet und Unterstuetzung in der breiten Masse der Bevoelkerung besteht kann [Artikel 146 GG](http://dejure.org/gesetze/GG/146.html) in Kraft treten.
+
+
+## Der folgende Text ist von [grundgesetz-dev](https://github.com/bheisig/grundgesetz-dev)
+
 #   Grundgesetz für die Bundesrepublik Deutschland (grundgesetz-dev)
 
 Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetzestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
